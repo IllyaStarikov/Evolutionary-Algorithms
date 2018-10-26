@@ -6,3 +6,4 @@ All pull requests/issues are welcome.
 The links to the post can be found below.
 
 - [Introduction](https://freneticarray.com/an-evolutionary-approach-to-problem-solving/)
+- [The Reusability Of Evolutionary Algorithms](https://freneticarray.com/on-the-reusability-of-evolutionary-algorithms/)
